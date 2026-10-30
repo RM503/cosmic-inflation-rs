@@ -1,0 +1,8 @@
+[package]
+name = "cosmic-inflation-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = "0.17.2"
+scirs2 = "0.6.5"
